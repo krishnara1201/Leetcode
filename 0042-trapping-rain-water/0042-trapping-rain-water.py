@@ -1,24 +1,16 @@
-class Solution(object):
-    def trap(self, height):
-        """
-        :type height: List[int]
-        :rtype: int
-        """
-        
+class Solution:
+    def trap(self, height: List[int]) -> int:
         n = len(height)
-        l,r = 0, n - 1
+        left_max = [0] * n
+        right_max = [0] * n
 
-        max_left, max_right = height[l], height[r]
-        filled = 0
-        while l < r:
-            if max_left < max_right:
-                l += 1
-                max_left = max(height[l], max_left)
-                filled += max_left - height[l]
-                
-            else:
-                r -= 1
-                max_right = max(height[r], max_right)
-                filled += max_right - height[r]
-                
-        return filled
+        for i in range(1,n):
+            left_max[i] = max(left_max[i-1], height[i-1])
+            right_max[n-i-1] = max(right_max[n-i], height[n-i])
+
+        res = 0
+
+        for i in range(n):
+            res += max(min(left_max[i], right_max[i]) - height[i], 0)
+        
+        return res
