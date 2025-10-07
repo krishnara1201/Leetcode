@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krishnara1201/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/krishnara1201/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnara1201/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/krishnara1201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/krishnara1201/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/krishnara1201/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krishnara1201/Leetcode/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/krishnara1201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/krishnara1201/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/krishnara1201/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishnara1201/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/krishnara1201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Matrix
 |  |
 | ------- |
