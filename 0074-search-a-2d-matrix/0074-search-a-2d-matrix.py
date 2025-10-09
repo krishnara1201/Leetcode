@@ -5,8 +5,6 @@ class Solution:
         b, t = 0, n - 1
         
         mid = 0
-        print(mid, m, n)
-
         while b <= t:
             mid = b + (t-b)//2
             if (matrix[mid][0] <= target) and (matrix[mid][m-1] >= target):
@@ -22,7 +20,6 @@ class Solution:
 
         while l <= r:
             row_mid = l + (r-l)//2
-            print(row_mid)
             if matrix[mid][row_mid] == target:
                 return True
             if matrix[mid][row_mid] > target:
