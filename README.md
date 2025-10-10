@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/krishnara1201/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/krishnara1201/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnara1201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishnara1201/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/krishnara1201/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/krishnara1201/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/krishnara1201/Leetcode/tree/master/0792-binary-search) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishnara1201/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishnara1201/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/krishnara1201/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/krishnara1201/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Divide and Conquer
