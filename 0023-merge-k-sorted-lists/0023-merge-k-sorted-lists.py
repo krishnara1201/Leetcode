@@ -8,13 +8,14 @@ class Solution:
         if not lists:
             return 
         
-        ret_list = lists[0]
-
-        for i in lists[1:]:
-            temp = ret_list
-            ret_list = self.mergeTwoLists(temp, i)
-        
-        return ret_list
+        while len(lists) > 1:
+            mergedLists = []
+            for i in range(0, len(lists), 2):
+                l1 = lists[i]
+                l2 = lists[i + 1] if (i + 1) < len(lists) else None
+                mergedLists.append(self.mergeTwoLists(l1, l2))
+            lists = mergedLists
+        return lists[0]
 
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         
