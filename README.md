@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/krishnara1201/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/krishnara1201/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/krishnara1201/Leetcode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/krishnara1201/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/krishnara1201/Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/krishnara1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/krishnara1201/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/krishnara1201/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/krishnara1201/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/krishnara1201/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/krishnara1201/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishnara1201/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/krishnara1201/Leetcode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/krishnara1201/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Doubly-Linked List
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/krishnara1201/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krishnara1201/Leetcode/tree/master/0090-subsets-ii) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/krishnara1201/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
