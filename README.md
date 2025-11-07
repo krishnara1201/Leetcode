@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/krishnara1201/Leetcode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/krishnara1201/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/krishnara1201/Leetcode/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/krishnara1201/Leetcode/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/krishnara1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/krishnara1201/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/krishnara1201/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/krishnara1201/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0355-design-twitter](https://github.com/krishnara1201/Leetcode/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/krishnara1201/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/krishnara1201/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/krishnara1201/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnara1201/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/krishnara1201/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/krishnara1201/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/krishnara1201/Leetcode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnara1201/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Doubly-Linked List
