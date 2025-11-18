@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/krishnara1201/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/krishnara1201/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/krishnara1201/Leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/krishnara1201/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/krishnara1201/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/krishnara1201/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/krishnara1201/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/krishnara1201/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishnara1201/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/krishnara1201/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/krishnara1201/Leetcode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krishnara1201/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/krishnara1201/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/krishnara1201/Leetcode/tree/master/0198-house-robber) |
