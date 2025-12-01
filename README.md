@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/krishnara1201/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/krishnara1201/Leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/krishnara1201/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/krishnara1201/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/krishnara1201/Leetcode/tree/master/0079-word-search) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishnara1201/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/krishnara1201/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/krishnara1201/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/krishnara1201/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/krishnara1201/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishnara1201/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/krishnara1201/Leetcode/tree/master/0127-word-ladder) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/krishnara1201/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/krishnara1201/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/krishnara1201/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/krishnara1201/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/krishnara1201/Leetcode/tree/master/0130-surrounded-regions) |
