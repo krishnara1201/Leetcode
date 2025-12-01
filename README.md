@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnara1201/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krishnara1201/Leetcode/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/krishnara1201/Leetcode/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/krishnara1201/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/krishnara1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnara1201/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/krishnara1201/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/krishnara1201/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/krishnara1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/krishnara1201/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/krishnara1201/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/krishnara1201/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/krishnara1201/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/krishnara1201/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/krishnara1201/Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
