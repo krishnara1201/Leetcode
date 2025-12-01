@@ -24,7 +24,7 @@ class Solution:
             else:
                 res.append(matrix[r][c])
                 visit.add((r,c))
-                for _ in range(4):
+                for _ in range(2):
                     if direction == "up":
                         dfs(r-1,c)
                     if direction == "right":
