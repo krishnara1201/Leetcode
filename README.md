@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/krishnara1201/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/krishnara1201/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishnara1201/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/krishnara1201/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/krishnara1201/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/krishnara1201/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/krishnara1201/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/krishnara1201/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/krishnara1201/Leetcode/tree/master/0130-surrounded-regions) |
@@ -465,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/krishnara1201/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/krishnara1201/Leetcode/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/krishnara1201/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
