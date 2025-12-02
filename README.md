@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/krishnara1201/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/krishnara1201/Leetcode/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/krishnara1201/Leetcode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/krishnara1201/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/krishnara1201/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/krishnara1201/Leetcode/tree/master/0792-binary-search) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krishnara1201/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/krishnara1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/krishnara1201/Leetcode/tree/master/0705-design-hashset) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishnara1201/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Linked List
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/krishnara1201/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/krishnara1201/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/krishnara1201/Leetcode/tree/master/0355-design-twitter) |
+| [0705-design-hashset](https://github.com/krishnara1201/Leetcode/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/krishnara1201/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/krishnara1201/Leetcode/tree/master/0355-design-twitter) |
+| [0705-design-hashset](https://github.com/krishnara1201/Leetcode/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnara1201/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Doubly-Linked List
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/krishnara1201/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/krishnara1201/Leetcode/tree/master/0705-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
