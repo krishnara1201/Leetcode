@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/krishnara1201/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/krishnara1201/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/krishnara1201/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/krishnara1201/Leetcode/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/krishnara1201/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krishnara1201/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/krishnara1201/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/krishnara1201/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/krishnara1201/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
+| [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
 |  |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/krishnara1201/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnara1201/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/krishnara1201/Leetcode/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishnara1201/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -505,4 +510,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/krishnara1201/Leetcode/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
