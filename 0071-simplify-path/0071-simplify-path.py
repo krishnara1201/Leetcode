@@ -4,14 +4,10 @@ class Solution:
         stack = []
         
         for i in path_list:
-            if not i:
-                continue
-            elif i == ".":
-                continue
-            elif i == "..":
+            if i == "..":
                 if stack:
                     stack.pop()
-            else:
+            elif i != "." and i != "":
                 stack.append(i)
         
         return "/" + "/".join(stack)
