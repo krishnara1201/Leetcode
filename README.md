@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/krishnara1201/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/krishnara1201/Leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/krishnara1201/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/krishnara1201/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/krishnara1201/Leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/krishnara1201/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/krishnara1201/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnara1201/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/krishnara1201/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/krishnara1201/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishnara1201/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -593,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/krishnara1201/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
