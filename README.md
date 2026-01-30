@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/krishnara1201/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/krishnara1201/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/krishnara1201/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/krishnara1201/Leetcode/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/krishnara1201/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/krishnara1201/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/krishnara1201/Leetcode/tree/master/0706-design-hashmap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/krishnara1201/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0997-find-the-town-judge](https://github.com/krishnara1201/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishnara1201/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Linked List
@@ -609,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/krishnara1201/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
