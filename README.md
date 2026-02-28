@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/krishnara1201/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/krishnara1201/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/krishnara1201/Leetcode/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/krishnara1201/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/krishnara1201/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/krishnara1201/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/krishnara1201/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/krishnara1201/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/krishnara1201/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/krishnara1201/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/krishnara1201/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/krishnara1201/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/krishnara1201/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/krishnara1201/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/krishnara1201/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/krishnara1201/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/krishnara1201/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Stack
