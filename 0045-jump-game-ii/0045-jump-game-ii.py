@@ -12,5 +12,4 @@ class Solution:
                         dp[i] = min(dp[i], 1 + dp[i+j])
                     else:
                         break
-        print(dp)
         return dp[0]
