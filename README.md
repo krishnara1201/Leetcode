@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/krishnara1201/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/krishnara1201/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/krishnara1201/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/krishnara1201/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/krishnara1201/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krishnara1201/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/krishnara1201/Leetcode/tree/master/0048-rotate-image) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/krishnara1201/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/krishnara1201/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishnara1201/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/krishnara1201/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/krishnara1201/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishnara1201/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/krishnara1201/Leetcode/tree/master/0062-unique-paths) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnara1201/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/krishnara1201/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/krishnara1201/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishnara1201/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/krishnara1201/Leetcode/tree/master/0134-gas-station) |
