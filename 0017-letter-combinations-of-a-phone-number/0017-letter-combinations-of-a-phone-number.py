@@ -13,16 +13,17 @@ class Solution:
             "9": "wxyz",
         }
         if n == 0:
-            return []
-        
-        def dfs(i, stack):
+            return res
+        stack = []
+        def dfs(i):
             if i == n:
                 res.append("".join(stack))
                 return
-            for j in digitToChar[digits[i]]:
-                stack.append(j)
-                dfs(i + 1, stack)
+            
+            for c in digitToChar[digits[i]]:
+                stack.append(c)
+                dfs(i+1)
                 stack.pop()
-        
-        dfs(0, [])
+        dfs(0)
         return res
+
