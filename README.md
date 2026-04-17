@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
 | [0997-find-the-town-judge](https://github.com/krishnara1201/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Enumeration
 |  |
