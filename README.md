@@ -685,5 +685,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/krishnara1201/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/krishnara1201/Leetcode/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/krishnara1201/Leetcode/tree/master/1164-product-price-at-a-given-date) |
+| [1211-queries-quality-and-percentage](https://github.com/krishnara1201/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krishnara1201/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
