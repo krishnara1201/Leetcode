@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/krishnara1201/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/krishnara1201/Leetcode/tree/master/0585-investments-in-2016) |
 | [1068-product-sales-analysis-i](https://github.com/krishnara1201/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/krishnara1201/Leetcode/tree/master/1148-article-views-i) |
