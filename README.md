@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnara1201/Leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/krishnara1201/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1492-the-kth-factor-of-n](https://github.com/krishnara1201/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/krishnara1201/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
@@ -692,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/krishnara1201/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1729-find-followers-count](https://github.com/krishnara1201/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krishnara1201/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/krishnara1201/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
