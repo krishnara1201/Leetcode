@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/krishnara1201/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/krishnara1201/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/krishnara1201/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/krishnara1201/Leetcode/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/krishnara1201/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/krishnara1201/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/krishnara1201/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/krishnara1201/Leetcode/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/krishnara1201/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/krishnara1201/Leetcode/tree/master/0881-boats-to-save-people) |
+| [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/krishnara1201/Leetcode/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 ## Sorting
 |  |
 | ------- |
