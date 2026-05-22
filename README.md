@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/krishnara1201/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/krishnara1201/Leetcode/tree/master/1127-last-stone-weight) |
+| [1151-minimum-swaps-to-group-all-1s-together](https://github.com/krishnara1201/Leetcode/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/krishnara1201/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-path-with-minimum-effort](https://github.com/krishnara1201/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/krishnara1201/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krishnara1201/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/krishnara1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/krishnara1201/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1151-minimum-swaps-to-group-all-1s-together](https://github.com/krishnara1201/Leetcode/tree/master/1151-minimum-swaps-to-group-all-1s-together) |
 ## Binary Search
 |  |
 | ------- |
