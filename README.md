@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/krishnara1201/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishnara1201/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/krishnara1201/Leetcode/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnara1201/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/krishnara1201/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/krishnara1201/Leetcode/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/krishnara1201/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/krishnara1201/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/krishnara1201/Leetcode/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnara1201/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/krishnara1201/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/krishnara1201/Leetcode/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
 ## Union Find
 |  |
 | ------- |
