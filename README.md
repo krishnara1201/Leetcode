@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishnara1201/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1676-lowest-common-ancestor-of-a-binary-tree-iv](https://github.com/krishnara1201/Leetcode/tree/master/1676-lowest-common-ancestor-of-a-binary-tree-iv) |
+| [2268-minimum-number-of-keypresses](https://github.com/krishnara1201/Leetcode/tree/master/2268-minimum-number-of-keypresses) |
 ## Linked List
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/krishnara1201/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishnara1201/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1894-merge-strings-alternately](https://github.com/krishnara1201/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2268-minimum-number-of-keypresses](https://github.com/krishnara1201/Leetcode/tree/master/2268-minimum-number-of-keypresses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/krishnara1201/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/krishnara1201/Leetcode/tree/master/0881-boats-to-save-people) |
+| [2268-minimum-number-of-keypresses](https://github.com/krishnara1201/Leetcode/tree/master/2268-minimum-number-of-keypresses) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/krishnara1201/Leetcode/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 ## Sorting
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/krishnara1201/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/krishnara1201/Leetcode/tree/master/0912-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2268-minimum-number-of-keypresses](https://github.com/krishnara1201/Leetcode/tree/master/2268-minimum-number-of-keypresses) |
 ## Stack
 |  |
 | ------- |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/krishnara1201/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/krishnara1201/Leetcode/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/krishnara1201/Leetcode/tree/master/0621-task-scheduler) |
+| [2268-minimum-number-of-keypresses](https://github.com/krishnara1201/Leetcode/tree/master/2268-minimum-number-of-keypresses) |
 ## Memoization
 |  |
 | ------- |
