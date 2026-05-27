@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishnara1201/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/krishnara1201/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnara1201/Leetcode/tree/master/0268-missing-number) |
+| [0788-rotated-digits](https://github.com/krishnara1201/Leetcode/tree/master/0788-rotated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/krishnara1201/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/krishnara1201/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1492-the-kth-factor-of-n](https://github.com/krishnara1201/Leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/krishnara1201/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/krishnara1201/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/krishnara1201/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/krishnara1201/Leetcode/tree/master/0788-rotated-digits) |
 ## Greedy
 |  |
 | ------- |
