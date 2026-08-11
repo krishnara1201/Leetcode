@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/krishnara1201/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/krishnara1201/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/krishnara1201/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/krishnara1201/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/krishnara1201/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/krishnara1201/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/krishnara1201/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/krishnara1201/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/krishnara1201/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/krishnara1201/Leetcode/tree/master/0788-rotated-digits) |
+| [1143-longest-common-subsequence](https://github.com/krishnara1201/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -718,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/krishnara1201/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/krishnara1201/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
