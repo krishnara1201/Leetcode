@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/krishnara1201/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/krishnara1201/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/krishnara1201/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/krishnara1201/Leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/krishnara1201/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/krishnara1201/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/krishnara1201/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/krishnara1201/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/krishnara1201/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/krishnara1201/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/krishnara1201/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/krishnara1201/Leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Counting
 |  |
 | ------- |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/krishnara1201/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/krishnara1201/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/krishnara1201/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/krishnara1201/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Enumeration
 |  |
@@ -730,4 +734,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/krishnara1201/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/krishnara1201/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/krishnara1201/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
