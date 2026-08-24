@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/krishnara1201/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/krishnara1201/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/krishnara1201/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/krishnara1201/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/krishnara1201/Leetcode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/krishnara1201/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/krishnara1201/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/krishnara1201/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Enumeration
 |  |
 | ------- |
