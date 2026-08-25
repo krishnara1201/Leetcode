@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/krishnara1201/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-path-with-minimum-effort](https://github.com/krishnara1201/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/krishnara1201/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/krishnara1201/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/krishnara1201/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2422-merge-operations-to-turn-array-into-a-palindrome](https://github.com/krishnara1201/Leetcode/tree/master/2422-merge-operations-to-turn-array-into-a-palindrome) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/krishnara1201/Leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/krishnara1201/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/krishnara1201/Leetcode/tree/master/0695-max-area-of-island) |
 | [1631-path-with-minimum-effort](https://github.com/krishnara1201/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/krishnara1201/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/krishnara1201/Leetcode/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Stack
 |  |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/krishnara1201/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/krishnara1201/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/krishnara1201/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/krishnara1201/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
