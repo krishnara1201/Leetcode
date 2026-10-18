@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/krishnara1201/Leetcode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/krishnara1201/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/krishnara1201/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0577-employee-bonus](https://github.com/krishnara1201/Leetcode/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/krishnara1201/Leetcode/tree/master/0585-investments-in-2016) |
